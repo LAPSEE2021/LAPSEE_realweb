@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700');
 /*!
 * Start Bootstrap - Creative v7.0.4 (https://startbootstrap.com/theme/creative)
 * Copyright 2013-2021 Start Bootstrap
@@ -11537,15 +11538,6 @@ header.masthead-news h1, header.masthead-news .h1 {
 }
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolio .container-md .portfolio-box:hover .portfolio-box-caption, #portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xl .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xxl .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
-}
-
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700');
-
-body {
-    color: #383749;
-    font-size: 16px;
-    line-height: 1.8;
-    font-family: 'Roboto', sans-serif;
 }
 
 img {
